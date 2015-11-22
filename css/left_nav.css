@@ -32,6 +32,10 @@
         display: inline-block;
     }
 
+    a:hover {
+             background-color: yellow;
+}
+
     img {
           height: auto;
           width: auto;
