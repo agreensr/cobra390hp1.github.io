@@ -16,7 +16,7 @@
         display: block;
         width: 790px;
     }
-    nav {
+    .nav_left {
         line-height:30px;
         background-color:#eeeeee;
         min-height:100%;
@@ -49,19 +49,10 @@
              border-color: black;
     }
 
+    table {
+           text-align: center;
+    }
 
-    aside {
-      width: 125px;
-      display: inline-block;
-      vertical-align: top;
-      background-color:#eeeeee;
-      font-size: 18px;
-      min-height: 100%;
-      padding: 8px;
-    }
-    aside ul {
-        list-style-type: none;
-    }
     footer {
         width: 790px;
         background-color:black;
